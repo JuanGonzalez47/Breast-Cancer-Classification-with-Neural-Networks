@@ -2,6 +2,8 @@
 
 This project focuses on breast cancer classification using the Al-Dhabyani et al. dataset. It explores a variety of machine learning and deep learning models, starting from classic algorithms (LMS, MLP, Perceptron) to advanced PyTorch-based Convolutional Neural Networks (CNNs) and Transfer Learning with ResNet.
 
+<img width="1024" height="469" alt="image" src="https://github.com/user-attachments/assets/ed10d6eb-a8d2-47ed-bb6d-208d8ec540dd" />
+
 ## Project Structure
 
 - **dataset/**: Contains the image data (benign/malignant images and masks).
