@@ -1,1 +1,8 @@
 dataset.zip
+*.jpg
+*.jpeg
+*.png
+*.bmp
+*.tif
+*.tiff
+*.gif
